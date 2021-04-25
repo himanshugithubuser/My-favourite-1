@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: linear-gradient(azure 0%, cadetblue 100%);
+    }
+h1 {
+    font-variant: small-caps;
+    font-size: 30px;
+}
+p {
+    font-family: cursive;
+    font-size: 20px;
+}
+hr {
+    background-color: black;
+    height: 3px
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px
+}
